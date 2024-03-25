@@ -1,0 +1,43 @@
+[
+    {
+      "model": "myapp.product",
+      "pk": 1,
+      "fields": {
+        "name": "Smartphone",
+        "description": "High-end smartphone with advanced features.",
+        "price": 999.99,
+        "quantity": 100
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 2,
+      "fields": {
+        "name": "Laptop",
+        "description": "Powerful laptop for work and entertainment.",
+        "price": 1499.99,
+        "quantity": 100
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 3,
+      "fields": {
+        "name": "T-shirt",
+        "description": "Casual cotton t-shirt available in various colors.",
+        "price": 19.99,
+        "quantity": 20
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 4,
+      "fields": {
+        "name": "Blender",
+        "description": "High-performance blender for smoothies and shakes.",
+        "price": 79.99,
+        "quantity": 300
+      }
+    }
+  ]
+  
